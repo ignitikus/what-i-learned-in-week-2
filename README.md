@@ -5,7 +5,7 @@
 * Powerful environment to test your code.
 ## Dev tools
 * Tools that help to dissect a website.
-## Copy Cat and Copy Calico
+## Copy Kitten and Copy Calico
 * I learned how to make buttons and how to play with `div`s.
 * Some of my favorite properties:
     * Box-Shadow;
